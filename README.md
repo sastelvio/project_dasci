@@ -2,7 +2,7 @@
 
 ## 📚 Academic Project – Data Science & Public Health
 
-This repository contains an academic project developed as part of a collaborative coursework assignment in data analysis and machine learning. The study focuses on **descriptive and predictive analysis** of dengue fever cases in Brazil using a large public dataset provided by the Brazilian Ministry of Health.
+This repository contains an academic project developed as part of a collaborative coursework assignment in A Journey to Data Scientist. The study focuses on **descriptive and predictive analysis** of dengue fever cases in Brazil using a large public dataset provided by the Brazilian Ministry of Health.
 
 > ⚠️ **Note:** This project was created in collaboration with fellow students for educational purposes. It is not intended for direct clinical or governmental application without further validation.
 
